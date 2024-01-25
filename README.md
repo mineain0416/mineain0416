@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=mineain0416&fontsize=" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /
 
+# welcome to my github repository
+> 안녕하세요 2024학년도 경기게임마이스터고 신입생 <br> 이예준이라고 합니다.
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mineain0416)](https://github.com/anuraghazra/github-readme-stats)
 
 
