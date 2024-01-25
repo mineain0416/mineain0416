@@ -1,4 +1,4 @@
-### Hi there 👋
+### 잘부탁드립니다! 👋
 
 <!--
 **mineain0416/mineain0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=mineain0416&fontsize=" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mineain0416)](https://github.com/anuraghazra/github-readme-stats)
+
+
